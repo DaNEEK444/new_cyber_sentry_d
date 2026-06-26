@@ -1,2 +1,2 @@
 # new_cyber_sentry_d
-The official Cyber Sentry Defense website: a clean, fast landing page showcasing services, pricing, and booking links for personal and small‑business cybersecurity protection.
+Landing page for Cyber Sentry Defense, featuring service descriptions, pricing, Calendly scheduling, Ko‑fi payments, and integrated live chat for client onboarding.
